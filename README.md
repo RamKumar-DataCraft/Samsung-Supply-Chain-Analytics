@@ -7,18 +7,18 @@ End-to-End Supply Chain Analytics Project using SQL, Power BI, and Python for in
 Supply chain operations generate large amounts of inventory, fulfillment, supplier, and logistics data. The objective of this project is to analyze operational performance and identify opportunities for inventory optimization and supply chain efficiency.
 
 # Project Objectives
-•	Monitor inventory performance
-•	Analyze order fulfillment trends
-•	Evaluate supplier performance
-•	Track logistics KPIs
-•	Generate data-driven business insights
+  •	Monitor inventory performance
+  •	Analyze order fulfillment trends
+  •	Evaluate supplier performance
+  •	Track logistics KPIs
+  •	Generate data-driven business insights
 
 # Tools Used
-•	MySQL
-•	Power BI
-•	Excel
-•	Python
-•	GitHub
+  •	MySQL
+  •	Power BI
+  •	Excel
+  •	Python
+  •	GitHub
 
 # Dataset Overview
 # The dataset contains information on:
