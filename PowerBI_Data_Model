@@ -1,0 +1,18 @@
+# Data Model
+The dataset was modeled using a Star Schema approach in Power BI. Where multiple fact tables share common dimension tables.
+
+# The model consists of:
+# Fact Table
+* Fact Inventory
+* Fact Procurement
+* Fact Production
+* Fact Sales
+* Fact Shipment
+
+# Dimension Table
+* Dimension Product
+* Dimension Supplier
+* Dimension Customer
+* Dimension Facility
+* Dimension Date
+
