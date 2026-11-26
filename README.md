@@ -44,6 +44,18 @@ The project uses MySQL to perform:
 * Revenue Analysis
 * KPI Monitoring
 
+# Power BI Dashboard
+
+# Executive Overview
+<img width="1901" height="1067" alt="image" src="https://github.com/user-attachments/assets/d5133e71-465f-4779-9ece-bd56f0cffbf2" />
+
+# Supplier Overview
+<img width="1876" height="1018" alt="image" src="https://github.com/user-attachments/assets/a74ada3f-2910-4d88-8282-9d5e0975dea6" />
+
+# Inventory & Producton
+<img width="1882" height="1063" alt="image" src="https://github.com/user-attachments/assets/8044568a-79e5-4a0e-adb4-768e63807b50" />
+
+
 # Key Insights
 *	Identified top-performing product categories.
 *	Analyzed inventory distribution across products.
